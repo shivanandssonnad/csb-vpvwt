@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shivanandssonnad.github.io/csb-vpvwt/static/css/main.07203a89.chunk.css",
+    "main.js": "https://shivanandssonnad.github.io/csb-vpvwt/static/js/main.1828e0c6.chunk.js",
+    "main.js.map": "https://shivanandssonnad.github.io/csb-vpvwt/static/js/main.1828e0c6.chunk.js.map",
+    "runtime-main.js": "https://shivanandssonnad.github.io/csb-vpvwt/static/js/runtime-main.184b840b.js",
+    "runtime-main.js.map": "https://shivanandssonnad.github.io/csb-vpvwt/static/js/runtime-main.184b840b.js.map",
+    "static/js/2.48a00560.chunk.js": "https://shivanandssonnad.github.io/csb-vpvwt/static/js/2.48a00560.chunk.js",
+    "static/js/2.48a00560.chunk.js.map": "https://shivanandssonnad.github.io/csb-vpvwt/static/js/2.48a00560.chunk.js.map",
+    "index.html": "https://shivanandssonnad.github.io/csb-vpvwt/index.html",
+    "static/css/main.07203a89.chunk.css.map": "https://shivanandssonnad.github.io/csb-vpvwt/static/css/main.07203a89.chunk.css.map",
+    "static/js/2.48a00560.chunk.js.LICENSE.txt": "https://shivanandssonnad.github.io/csb-vpvwt/static/js/2.48a00560.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.184b840b.js",
+    "static/js/2.48a00560.chunk.js",
+    "static/css/main.07203a89.chunk.css",
+    "static/js/main.1828e0c6.chunk.js"
+  ]
+}
